@@ -16,7 +16,7 @@ void main() {
   final String bankName = "BG Bank";
   const String bankName2 = "BG Bank";
 
-  //----------- Senario ----------------
+  //----------- Scenario ----------------
 
   const String bankNameSpecial = "BG Bank";
   const String user1 = "Bank 1 customer";

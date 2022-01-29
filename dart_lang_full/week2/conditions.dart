@@ -13,7 +13,7 @@ void main() {
     print("You are not rich");
   }
 
-  // --------- Senario -----------
+  // --------- Scenario -----------
 
   int newCustomerMoney = 100;
   const int bankingCost = 50;
@@ -25,7 +25,7 @@ void main() {
     print('please take your turn');
   }
 
-  // -------- Senario 2 -----------
+  // -------- Scenario 2 -----------
   final String company1 = "Tesla";
   final String company2 = "Apple";
   final String company3 = "Lenovo";
